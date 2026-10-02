@@ -130,7 +130,7 @@ if "paid" not in st.session_state:
 # TIÊU ĐỀ
 # =========================
 st.markdown(
-    '<div class="main-title">🧋 QUÁN TRÀ SỮA</div>',
+    '<div class="main-title">🧋TRÀ SỮA HOLI </div>',
     unsafe_allow_html=True
 )
 
